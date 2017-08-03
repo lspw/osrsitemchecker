@@ -1,2 +1,1 @@
-var element = document.getElementById('#test');
-element.innerHTML = 'hello!';
+document.write(Date());
